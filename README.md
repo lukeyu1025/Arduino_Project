@@ -26,12 +26,17 @@ pip install django pyserial
 
 ## Usage
 
-1. Open a terminal and navigate to the project directory.
-cd arduino-control
+1. Open a terminal and navigate to the project directory
+   
+   ```
+   cd arduino-control
+   ```
 
-2. Start the Django development server.
+3. Start the Django development server.
 
-python manage.py runserver
+   ```
+   python manage.py runserver
+   ```
 
 3. By default, the web interface will be accessible at `http://localhost:8000`.
 
