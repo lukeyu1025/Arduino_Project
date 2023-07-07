@@ -13,6 +13,7 @@ This project allows you to control an Arduino board remotely using a web interfa
 - Arduino board (compatible with the Arduino IDE).
 - Python 3.x installed on your computer.
 - Required Python packages: Django, pyserial.
+![image](https://github.com/lukeyu1025/Arduino_Project/assets/74660025/c4358b2e-3587-4d9b-9745-dd07511ce6af)
 
 ## Installation
 
